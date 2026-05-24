@@ -4,7 +4,7 @@ from datetime import datetime, timezone
 
 TELEGRAM_TOKEN   = "8833789042:AAHTsblDfaHEzuHO5wp3uLZ-CZPbgFDmb_M"
 TELEGRAM_CHAT_ID = 860803224
-ODDS_API_KEY     = "BURAYA_THE_ODDS_API_KEY_GIR"
+ODDS_API_KEY     = "a8db515654081c5673f2d3df8381d0f9"
 STARTING_BALANCE = 100.0
 STAKE            = 5.0
 MIN_EDGE         = 3.0
