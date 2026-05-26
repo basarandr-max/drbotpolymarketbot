@@ -2,7 +2,7 @@
 import json, time, sqlite3, logging, threading, urllib.request, urllib.parse, re
 from datetime import datetime, timezone
 
-TELEGRAM_TOKEN   = "8833789042:AAHTsblDfaHEzuHO5wp3uLZ-CZPbgFDmb_M"
+TELEGRAM_TOKEN   = "8664660615:AAFZ3gJOnMmjhuyiLymI0WdV1sxwcDqpzs4"
 TELEGRAM_CHAT_ID = 860803224
 ODDS_API_KEY     = "a8db515654081c5673f2d3df8381d0f9"
 STARTING_BALANCE = 100.0
